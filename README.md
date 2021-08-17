@@ -11,7 +11,7 @@ Number of JJ does given \
 Number of people fully vaccinated \
 Number of people partially vaccinated \
 At least one dose \
-Chart showing vaccination and cases correlation \
+Chart showing vaccination and cases correlation 
 
 First, we will import the latest csv file into jupyter notebook and start the data cleaning process.  \
 There are certain columns that we will not need like California flag status so we will drop that. Also, certain rows include the data from non CA counties as well, \
