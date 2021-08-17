@@ -1,9 +1,9 @@
 # Project Name:- Covid Vaccine Data California 
 
-#### Overview:- As California begins opening up it becomes important to learn about how many people have been vaccinated in California and how many cases, deaths, and tests occurred in California . 
+### Overview:- As California begins opening up it becomes important to learn about how many people have been vaccinated in California and how many cases, deaths, and tests occurred in California . 
 We will extract and analyze this information in our project. 
 
-#### Extract:- Below are all the things that will be extracted from this data in our project. 
+### Extract:- Below are all the things that will be extracted from this data in our project. 
 Total doses given at specific date 
 Number of pfizer doses given
 Number of moderna doses given
