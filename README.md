@@ -20,8 +20,8 @@ so we will get rid of that as well. We also merge any relevant data from both da
 results by finding mean and standard deviation and then represent them visually. We can work with the data more once we start the process. 
 
 ### Data Cleaning:-
-1.) We have renamed all the rows in order to properly differentiate the names. For example, changing counties to California Counties, pfizer_doses to PFIZER, moderna_doses to MODERNA and jj_doses to JANSSEN and etc.\\
-2.) In our data set there were rows that contained data for counties that were not part of California. Those rows includes "Outside California", "Unknown" and "All CA and non-CA Counties. \\
+1.) We have renamed all the rows in order to properly differentiate the names. For example, changing counties to California Counties, pfizer_doses to PFIZER, moderna_doses to MODERNA and jj_doses to JANSSEN and etc.\
+2.) In our data set there were rows that contained data for counties that were not part of California. Those rows includes "Outside California", "Unknown" and "All CA and non-CA Counties. \
 3.) Finally, there was a column named "california_flag" to show that which county belongs to the California. We did not need that since we already removed all the non-California countises from our dataset. This means went from 15314 rows to 14573 rows in total. And then we printed them to display the final dataset. 
 
 
