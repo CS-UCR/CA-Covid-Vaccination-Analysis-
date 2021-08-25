@@ -26,4 +26,18 @@ results by finding mean and standard deviation and then represent them visually.
 
 3.) Finally, there was a column named "california_flag" to show that which county belongs to the California. We did not need that since we already removed all the non-California countises from our dataset. This means went from 15314 rows to 14573 rows in total. And then we printed them to display the final dataset. 
 
+### Data Visualization:-
+
+1.) First, we are graphing a time series analysis for certain dates of three vaccines Pfizer, Moderna and Janssen doses taken. It starts from 2020-12-15 spanning to 2021-05-30. 
+Blue graph shows the Pfizer doses. We see the pick during the the 2020 and it slows down and there is a slight pick between february 2021 to April 2021. Orange graph shows the 
+Moderna doses and green graph shows the Janssen doses. Grpah for this two vaccines are little similar to Pfizer and Moderna as well. 
+
+2.) Second, we have done pie chart comparasion with Riverside County and Los Angeleous county to see how many people are fully vaccinated in both counties regardless of which 
+vaccine people have taken. We see that in Los Angeles county there are more people who are fully vaccinated compare to Riverside County. This graph does not account the population
+of both counties though. 
+
+3.) Third, we are plotting a bar graph where we are finding the mean of Pfizer, Moderna and Janssen does and then comparing which vaccine people are prefering to take in Rierside, 
+Los Angeleous, Orange and San Diego counties. From the graph we see that in all counties Pfizer vaccine dominates the other vaccine. Moderna comes second and Janssen stays third choice for the people. 
+
+4.) Fourth, we are visualizing total number of Pfizer, Moderna and Janssen does people have taken on each day. This is basically more detailed version of what we did in the first step. Here we see that in December 2020 very less doses were taken and as the day passed people started getting vaccinated in 2021. Similar to last step Pfizer leads other vaccine in terms of total doses taken. 
 
