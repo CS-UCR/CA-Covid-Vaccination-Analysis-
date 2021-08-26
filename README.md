@@ -1,4 +1,4 @@
-# Project Name:- Covid Vaccine Data California 
+# Project Name:- Covid Vaccine Data California Counties
 
 ### Overview:- As California begins opening up it becomes important to learn about how many people have been vaccinated in different counties in California. This dataset contains the report of vaccination status by different counties.
 We will extract and analyze this information in our project. 
