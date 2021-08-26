@@ -24,7 +24,9 @@ results by finding mean and standard deviation and then represent them visually.
 
 2.) In our data set there were rows that contained data for counties that were not part of California. Those rows includes "Outside California", "Unknown" and "All CA and non-CA Counties. 
 
-3.) Finally, there was a column named "california_flag" to show that which county belongs to the California. We did not need that since we already removed all the non-California countises from our dataset. This means went from 15314 rows to 14573 rows in total. And then we printed them to display the final dataset. 
+3.) There was a column named "california_flag" to show that which county belongs to the California. We did not need that since we already removed all the non-California counties from our dataset. This means went from 15314 rows to 14573 rows in total. And then we printed them to display the final dataset. 
+
+4.) Later on in the notebook we created a subset of the data that only looks at the month of August 2021 which has the most recent vaccine data. We did some webscrapping to add a population column to the data set so we can make more comparisons. 
 
 ### Data Visualization:-
 
