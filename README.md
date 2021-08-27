@@ -39,7 +39,7 @@ results by finding mean and standard deviation and then represent them visually.
 
 1.) First, we are graphing a time series analysis for certain dates of three vaccines Pfizer, Moderna and Janssen doses taken. It starts from 2020-12-15 spanning to 2021-05-30. 
 Blue graph shows the Pfizer doses. We see the pick during the the 2020 and it slows down and there is a slight pick between february 2021 to April 2021. Orange graph shows the 
-Moderna doses and green graph shows the Janssen doses. Grpah for this two vaccines are little similar to Pfizer and Moderna as well. 
+Moderna doses and green graph shows the Janssen doses. Graph for this two vaccines are little similar to Pfizer and Moderna as well. 
 #### Summary of doses taken by dates 3 vaccines ( More details later..)
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Doses%20on%20Date.PNG?raw=true)
 
