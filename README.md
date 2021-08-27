@@ -46,12 +46,12 @@ Moderna doses and green graph shows the Janssen doses. Grpah for this two vaccin
 2.) Second, we have done pie chart comparasion with Riverside County and Los Angeleous county to see how many people are fully vaccinated in both counties regardless of which 
 vaccine people have taken. We see that in Los Angeles county there are more people who are fully vaccinated compare to Riverside County. This graph does not account the population
 of both counties though. 
-### Riverside + Los Angeles comparasion of vaccination
+### Riverside + Los Angeles Comparasion Of Vaccination
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Riverside-LA.PNG?raw=true)
 
 3.) Third, we are plotting a bar graph where we are finding the mean of Pfizer, Moderna and Janssen does and then comparing which vaccine people are prefering to take in Rierside, 
 Los Angeleous, Orange and San Diego counties. From the graph we see that in all counties Pfizer vaccine dominates the other vaccine. Moderna comes second and Janssen stays third choice for the people. 
-### Comparing prefered vaccine of four counties
+### Comparing Prefered Vaccine Of Four Counties
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Prefered%20Vaccine.PNG?raw=true)
 
 4.) Fourth, we are visualizing total number of Pfizer, Moderna and Janssen does people have taken on each day. This is basically more detailed version of what we did in the first step. Here we see that in December 2020 very less doses were taken and as the day passed people started getting vaccinated in 2021. Similar to last step Pfizer leads other vaccine in terms of total doses taken. Then, we are also graphing how many people became fully vaccinated and partially vaccinated on each day. It can be seen that during the december 2020, most of the people received the first dose of the vaccine. This is why we do not see the graph of fully vaccinated. But as the day passes we see the fully vaccinated graphs showing up. 
@@ -70,6 +70,7 @@ Los Angeleous, Orange and San Diego counties. From the graph we see that in all 
 ### Data for August 2021 only
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Number%20of%20fully%20vaccinated.PNG?raw=true)
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Number%20of%20fully%20vaccinated%202.PNG?raw=true)
+### Data for December 2020 only
 ![](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/December%20Fully.PNG?raw=true)
 
 6.) This part also goes along with data cleaning, where we scrapped the data in order to add the population column in our dataset. In the graph we see the list of counties by population and number of people are fully vaccinated. We do the same to see how many people are partially vaccinated.
