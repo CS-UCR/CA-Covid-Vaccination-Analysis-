@@ -22,6 +22,8 @@ results by finding mean and standard deviation and then represent them visually.
 ### Data Cleaning:- 
 
 1.) We have renamed all the rows in order to properly differentiate the names. For example, changing counties to California Counties, pfizer_doses to PFIZER, moderna_doses to MODERNA and jj_doses to JANSSEN and etc.
+![Before Rename](https://github.com/CS-UCR/final-project-covidvaccineca/blob/main/Project%20Screenshots/Before.PNG?raw=true "Before Rename")
+
 
 2.) In our data set there were rows that contained data for counties that were not part of California. Those rows includes "Outside California", "Unknown" and "All CA and non-CA Counties. 
 
